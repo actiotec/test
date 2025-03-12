@@ -12,6 +12,7 @@ parameters:
 
 variables:  
   location: eastus  
+  environment: 'PROD'  
 
 resources:  
 - type: Microsoft.Compute/virtualMachines  
